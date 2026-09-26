@@ -1,0 +1,18 @@
+text,priority
+computer not booting,High
+system not starting,High
+pc shows smoke,High
+electrical spark in lab,High
+network down for whole lab,High
+server is down,High
+internet unavailable in lab,Medium
+printer not working,Medium
+system crashes frequently,Medium
+blue screen error,Medium
+cannot login to computer,Medium
+software installation required,Low
+install python software,Low
+mouse is not working,Low
+keyboard key broken,Low
+application update,Low
+projector display issue,Medium

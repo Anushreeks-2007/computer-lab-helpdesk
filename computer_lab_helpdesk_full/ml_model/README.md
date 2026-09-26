@@ -1,0 +1,1 @@
+Run `python ml_model/train_model.py` to create priority_model.joblib. The backend uses it when available and falls back to rules otherwise. Replace the demo training data with historical helpdesk tickets for a real model.
